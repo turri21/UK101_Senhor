@@ -1,3 +1,7 @@
+=(UK101_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+
 # [Compukit UK101](https://en.wikipedia.org/wiki/Compukit_UK101) for [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 Port by [danielb0](https://github.com/danielb0)
