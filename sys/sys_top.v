@@ -133,6 +133,10 @@ wire VGA_HS;
 wire VGA_VS = 1'b1;
 wire VGA_EN = 1'b1;
 
+assign VGA_R = 6'b000000;
+assign VGA_G = 6'b000000;
+assign VGA_B = 6'b000000;
+
 wire [3:0] SDIO_DAT;
 wire SDIO_CMD = 1'b1;
 wire [6:0] USER_IO;
